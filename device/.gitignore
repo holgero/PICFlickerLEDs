@@ -1,0 +1,7 @@
+*~
+*.o
+*.lst
+*.cod
+*.hex
+*.map
+/Java/Flackerlicht/bin/
